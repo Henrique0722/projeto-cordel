@@ -54,11 +54,11 @@
 
  }
 header a, footer a{
-    color: white;
-    text-decoration: none;
-    font-weight: bolder;
-    transition: 0.4s;
-    border-radius: 5px;
+   color: white;
+   text-decoration: none;
+   font-weight: bolder;
+   transition: 0.4s;
+   border-radius: 5px;
 
 
  }
